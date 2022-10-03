@@ -16,7 +16,7 @@ body {
   border-radius: 18px;
   -webkit-box-shadow: 2px 5px 29px -1px rgba(0, 0, 0, 0.19);
   box-shadow: 2px 5px 29px -1px rgba(0, 0, 0, 0.1);
-  margin-top: 2rem;
+  margin: 6.5rem;
 }
 
 .qrcode {
@@ -44,5 +44,4 @@ h1 {
 .card {
   display: flex;
   justify-content: center;
-  margin-top: 5rem;
 }
